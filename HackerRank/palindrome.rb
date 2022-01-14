@@ -1,5 +1,5 @@
   #https://www.hackerrank.com/contests/microverse-coding-challenges/challenges/palindrome-index
-  load "palindrome-variables.rb"
+  load "palindrome_variables.rb"
              
 
   def palindromeIndex(s)    
