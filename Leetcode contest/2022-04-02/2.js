@@ -1,3 +1,5 @@
+
+
 var triangularSum = function(nums) {
     if (nums.length === 1) return nums[0]
     if (nums.length === 0) return
