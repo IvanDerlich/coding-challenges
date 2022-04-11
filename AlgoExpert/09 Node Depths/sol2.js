@@ -4,4 +4,4 @@ function nodeDepths(root, level = -1) {
 	return nodeDepths(root.left, level)
 	+ nodeDepths(root.right, level)
 	+ level
-}
+}   
