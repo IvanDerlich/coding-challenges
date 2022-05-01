@@ -4,7 +4,6 @@ function binarySearch(
 	startIndex=0,
 	endIndex=array.length-1
 ) {
-  // Write your code here.
 	let middleIndex = startIndex + Math.ceil( (endIndex - startIndex) / 2)	
 	let middleNumber = array[middleIndex]
 	console.log("start",  "end", "middle", "middleNum", "target")
